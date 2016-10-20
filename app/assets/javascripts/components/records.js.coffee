@@ -1,2 +1,0 @@
-@Records = React.createClass
-    render:
